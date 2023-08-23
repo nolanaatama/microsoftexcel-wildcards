@@ -1,67 +1,38 @@
-cosmic
-simple
-classroom
-jungle
-forest
-space
-city
-lake
-ocean
-beach
-ship
-gradient
-office
-factory
-roman city
-medieval village
-fantasy city
-cyberpunk city
-war
-fire
-kitchen
-bathroom
-bedroom
-dungeon
-prison
-valley
-field of flowers
-field of wheat
-Alphonse Mucha
-swimming pool
-mountain
-desert
-vatican city
-jewish temple
-colosseum
-space station
-lunar base
-cave
-slums
-sunset
-infernal palace
-frozen lakeside
-winter
-bouncy castle
-chicken coop
-hen house
-autumn
-fall
-summer
-spring
-airport
-barn
-farm
-library
-haunted library
-camp
-capitol building
-corn maze
-night sky
-moon
-gothic
-alleyway
-court
-ramen shop
-pagoda
-wrestling ring
-mushroom forest
+at luxury restaurant
+at living room
+at bedroom
+inside a car
+indoor wall background
+at night club
+at concert
+city background
+at park
+at lake
+ocean background
+at beach
+on ship
+at restaurant
+at kitchen
+at bathroom
+field of flowers background
+at swimming pool
+on mountain
+at desert
+at grand canyon
+sunset background
+at frozen lakeside
+winter background
+at chicken coop
+at horse stable
+at hen house
+autumn background
+fall background
+summer background
+spring background
+at airport
+at barn
+at farm
+at library
+at camp
+at corn maze
+at alleyway
