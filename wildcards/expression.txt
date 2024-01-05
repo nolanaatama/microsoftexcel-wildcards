@@ -55,6 +55,7 @@ miserable
 naughty_face
 nervous
 neutral
+open mouth, tongue out,
 optimistic
 pained
 proud
